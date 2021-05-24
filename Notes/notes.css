@@ -1,0 +1,26 @@
+.notes-container {
+  max-width: 70%;
+  margin: 2rem 5rem 5rem 10rem;
+}
+
+.notes-container ul li {
+  cursor: pointer;
+}
+.notes__list {
+  font-weight: 550;
+}
+.notes__list > a:hover {
+  color: red;
+}
+.notes {
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 468px) {
+  .notes-container {
+    max-width: 100%;
+  }
+  .notes-container p {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is Software ?",
+    "choice1": "Set of computer programs, procedures and possibly is a collection of instructions that enable the user to interact with a computer",
+    "choice2": "A set of compiler instructions",
+    "choice3": "A set of compiler instructions",
+    "choice4": "A mathematical formula",
+    "answer": 1
+  },
+  {
+    "question": "Software consists of ______ ",
+    "choice1": "Set of instructions + operating procedures",
+    "choice2": "Programs + documentation + operating procedures",
+    "choice3": "Programs + hardware manuals",
+    "choice4": "Set of programs",
+    "answer": 2
+  },
+  {
+    "question": "The process of developing a software product using software engineering principles and methods is referred to as, _______",
+    "choice1": "Software myths",
+    "choice2": "Scientific Product",
+    "choice3": "Software Evolution",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "What is the main aim of Software engineering?",
+    "choice1": "Reliable software",
+    "choice2": "Cost effective software",
+    "choice3": "Reliable and cost effective software",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "First level of prototype is evaluated by ",
+    "choice1": "Developer",
+    "choice2": "Tester",
+    "choice3": "User",
+    "choice4": "System Analyst",
+    "answer": 3
+  },
+  {
+    "question": "The Incremental Model is a result of combination of elements of which two models?",
+    "choice1": "Build & FIX Model & Waterfall Model",
+    "choice2": " Linear Model & RAD Model",
+    "choice3": "Linear Model & Prototyping Model",
+    "choice4": "Waterfall Model & RAD Model",
+    "answer": 3
+  },
+  {
+    "question": "The spiral model has two dimensions namely _____________ and ____________",
+    "choice1": "diagonal, angular",
+    "choice2": "radial, perpendicular",
+    "choice3": "radial, angular",
+    "choice4": "diagonal, perpendicular",
+    "answer": 3
+  },
+  {
+    "question": "How is Incremental Model different from Spiral Model?",
+    "choice1": "Progress can be measured for Incremental Model",
+    "choice2": "Changing requirements can be accommodated in Incremental Model",
+    "choice3": "Users can see the system early in Incremental Model",
+    "choice4": "All of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "What is the major advantage of using Incremental Model?",
+    "choice1": "RCustomer can respond to each increment",
+    "choice2": "Easier to test and debug",
+    "choice3": "It is used when there is a need to get a product to the market early",
+    "choice4": "Easier to test and debug & It is used when there is a need to get a product to the market early",
+    "answer": 4
+  },
+  {
+    "question": "Which one of the following models is not suitable for accommodating any change? ",
+    "choice1": "Build & Fix Model",
+    "choice2": "Prototyping Model",
+    "choice3": "RAD Model",
+    "choice4": "Waterfall Model",
+    "answer": 4
+  },
+  {
+    "question": "RAD Model has",
+    "choice1": "2 phases",
+    "choice2": "3 phases",
+    "choice3": "5 phases",
+    "choice4": "6 phases",
+    "answer": 3
+  },
+  {
+    "question": "SDLC stands for",
+    "choice1": "Software Development Life Cycle",
+    "choice2": "System Development Life cycle",
+    "choice3": "Software Design Life Cycle",
+    "choice4": "System Design Life Cycle",
+    "answer": 1
+  },
+  {
+    "question": "Which one of the following is not a phase of Prototyping Model?",
+    "choice1": "Quick Design",
+    "choice2": "Coding",
+    "choice3": "Prototype Refinement",
+    "choice4": "Engineer Product",
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following is not a maintenance model?",
+    "choice1": "Waterfall model",
+    "choice2": "Reuse-oriented model",
+    "choice3": "Iterative enhancement model",
+    "choice4": "Quick fix model",
+    "answer": 1
+  },
+  {
+    "question": "Which is not one of the types of prototype of Prototyping Model? ",
+    "choice1": "Horizontal Prototype",
+    "choice2": "Vertical Prototype",
+    "choice3": "Diagonal Prototype",
+    "choice4": "Domain Prototype",
+    "answer": 3
+  }
+]
